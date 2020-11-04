@@ -1,2 +1,2 @@
-# akhilsingh.github.io
+# akhilksingh.github.io
 Portfolio website
